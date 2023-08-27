@@ -5,7 +5,8 @@ box-sizing: border-box;
 body{
 margin: 0;
 font-family: "Poppins", sans-serif;
-background-color: rebeccapurple;
+background-color: #3b9e6373;
+
 color: #eee;
 display: flex;
 align-items: center;
@@ -14,7 +15,8 @@ min-height: 100vh;
 }
 .pw-container{
 width: 400px;
-background-color: rgb(69, 17, 118);
+background-color: rgb(55 107 76);
+
 box-shadow: 0 4px 10px rgba(0,0,0,0.6);
 }
 .pw-header{
@@ -23,7 +25,8 @@ padding: 1rem;
 .pw{
 width: 100%;
 height: 70px;
-background-color: rebeccapurple;
+background-color: #a6d3b8;
+color: #376b4c;
 display: flex;
 align-items: center;
 position: relative;
@@ -61,8 +64,9 @@ margin: 0.75rem 0;
 }
 .generate{
 display: block;
-background-color: #ecb602;
-color: rebeccapurple;
+background-color: #a6d3b8;
+color: #376b4c;
+
 font-weight: bold;
 padding: 1rem;
 font-size: 1.5rem;
